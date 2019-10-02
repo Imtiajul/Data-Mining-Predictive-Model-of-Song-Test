@@ -1,7 +1,7 @@
 # CSE477 Project: Data Mining Predictive Model of Song Test
 We worked on spotify dataset with 2017 smaples. We mainly used two models Decision Tree and Naive Bayes, and make a comparative analysis. 
 Additionaly, we worked on Apriori models with different dataset to fulfil our project instruction. 
-We fit our Apriori models with super shop dataset where dataset contains 9835 records. 
+We fit our Apriori models with super shop dataset where dataset contains 9835 customer records. 
 
 ## Dependency: 
 * Python 
